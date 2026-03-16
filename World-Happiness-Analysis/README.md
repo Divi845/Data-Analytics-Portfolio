@@ -7,3 +7,7 @@ The dashboard helps visualize country-level and regional trends.
 Tools Used:
 - Python
 - Power BI
+
+## Dashboard Preview
+
+![Dashboard](Happiness.png)
