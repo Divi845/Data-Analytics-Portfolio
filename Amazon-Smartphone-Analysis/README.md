@@ -9,4 +9,4 @@ Tools Used:
 
 ## Dashboard Preview
 
-![Dashboard](amazon-dashboard.png)
+![Dashboard](Amazon.png)
