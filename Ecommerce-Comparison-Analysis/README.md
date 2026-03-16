@@ -10,5 +10,5 @@ Tools Used:
 
 ## Dashboard Preview
 
-![Dashboard](E-commerce 1.png)
-![Dashboard](E-commerce 2.png)
+![Dashboard](E-commerce 1.png, E-commerce 2.png )
+
