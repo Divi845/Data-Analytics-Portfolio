@@ -6,3 +6,7 @@ Tools Used:
 - Excel
 - SQL
 - Power BI
+
+## Dashboard Preview
+
+![Dashboard](amazon-dashboard.png)
