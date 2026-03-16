@@ -10,7 +10,7 @@ Tools Used:
 
 ## Dashboard Preview
 
-![Dashboard 1](E-commerce 1.png)
+![Price Comparison](ecommerce-dashboard-1.png)
 
-![Dashboard 2](E-commerce 2.png)
+![Rating Distribution](ecommerce-dashboard-2.png)
 
